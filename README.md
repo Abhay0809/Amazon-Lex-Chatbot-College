@@ -3,4 +3,4 @@
 Final Year Project
 
 File:
-Lambda Function for Bot Validation
+Lambda Function for Bot Function Validation
